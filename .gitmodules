@@ -1,0 +1,3 @@
+[submodule "pc-part-picker-backend"]
+	path = pc-part-picker-backend
+	url = https://github.com/Saffons/pc-part-picker-backend.git
